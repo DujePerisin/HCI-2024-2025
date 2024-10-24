@@ -25,7 +25,7 @@
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**]([URL_TO_ASSIGNMENT_1](https://fesb-my.sharepoint.com/personal/dperis00_fesb_hr/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdperis00%5Ffesb%5Fhr%2FDocuments%2FAttachments%2F2024%2D10%2D24%2013%2D05%2D29%5Fedit%5Ffinal%201%2Emkv&ct=1729768823170&or=OWA%2DNT%2DMail&cid=2a60eba1%2D567e%2D9c57%2Dff24%2D083d79f43e26&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb24393b8%2D5575%2D491e%2Dad1a%2De0e74e1eddb2)) <!-- Replace with actual URL -->
+- Link to Assignment 1: [**Assignment 1**]([https://fesb-my.sharepoint.com/personal/dperis00_fesb_hr/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdperis00%5Ffesb%5Fhr%2FDocuments%2FAttachments%2F2024%2D10%2D24%2013%2D05%2D29%5Fedit%5Ffinal%201%2Emkv&ct=1729768823170&or=OWA%2DNT%2DMail&cid=2a60eba1%2D567e%2D9c57%2Dff24%2D083d79f43e26&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb24393b8%2D5575%2D491e%2Dad1a%2De0e74e1eddb2]) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](URL_TO_ASSIGNMENT_2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
