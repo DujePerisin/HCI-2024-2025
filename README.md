@@ -28,7 +28,7 @@
 - Link to Assignment 1: [**Assignment 1**](https://github.com/DujePerisin/HCI-2024-2025/tree/3a83f74c5a50aa544886e79ad3f0ebc444a6886c/assignments/assignment-1) <!-- Replace with actual URL --> 
 - Link to Assignment 2: [**Assignment 2**](https://github.com/DujePerisin/HCI-2024-2025/tree/3a83f74c5a50aa544886e79ad3f0ebc444a6886c/assignments/assignment-2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](https://github.com/DujePerisin/hci-assignment-3) [**Vercel website link**](https://hci-assignment-3.vercel.app/)<!-- Replace with actual URL -->
-- Note about Assignment 3: Entire project is contained inside a different Github repo of mine !!NOT IN THIS ONE!! I have provided a link to that repo. Deployed website with the Vercel domain is also available. 
+- Note about Assignment 3: Entire project is contained inside a different Github repo of mine !!NOT IN THIS ONE!! I didn't want to take chances with Vercel and so I have provided a link to that repo. Deployed [**website**](https://hci-assignment-3.vercel.app/) with the Vercel domain is also available. 
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
