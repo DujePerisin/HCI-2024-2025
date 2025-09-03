@@ -8,8 +8,9 @@ _Created and maintained by Duje Perišin_
 3. Project Development Overview  
 4. Core Features 
 5. Philosophy behind design
-6. Application's performance  
-7. Final Thoughts  
+6. CMS overview
+7. Application's performance  
+8. Final Thoughts  
 
 ---
 
@@ -134,7 +135,19 @@ To support intuitive and accessible user experience, the interface was designed 
 
 ---
 
-## 6. Application's performance
+## 6. CMS overview
+Prismic CMS was used in this project and from the following photos you can see few example of the CMS side of the development process, which can be summed up in few lines:
+1. Creating a new page
+2. Adding neccessary "slices", which are basically components for which Prismic helps generate Metadata and attributed
+3. Populating slices & pages with relevant data
+
+![creating-page](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-1.PNG)
+![adding-slices](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-2.PNG)
+![populating-w-data](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-3.PNG)
+
+---
+
+## 7. Application's performance
 
 The site is hosted on **Vercel**, with the official domain [kud-ante-zaninovic.vercel.app](https://kud-ante-zaninovic.vercel.app/)
 
@@ -162,7 +175,7 @@ The site is hosted on **Vercel**, with the official domain [kud-ante-zaninovic.v
 ![Mobile performance](https://github.com/DujePerisin/HCI-2024-2025/blob/main/assets/performance-mobile.PNG)
 ---
 
-## 7. Final Thoughts
+## 8. Final Thoughts
 
 Throught development I was concerned how far I can push this project, but now that I'm writting this I can say that even though there is still plenty to add, I am proud of where it is currently. Through this website, our rich traditonal folk culture will be perserved in a modern format.
 
