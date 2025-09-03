@@ -141,7 +141,7 @@ Prismic CMS was used in this project and from the following photos you can see f
 2. Adding neccessary "slices", which are basically components for which Prismic helps generate Metadata and attributed
 3. Populating slices & pages with relevant data
 
-![creating-page](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-1.PNG)
+![creating-page](https://github.com/DujePerisin/HCI-2024-2025/blob/main/assets/cms-overview-1.PNG)
 ![adding-slices](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-2.PNG)
 ![populating-w-data](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assets/cms-overview-3.PNG)
 
