@@ -32,7 +32,7 @@
 - Link to Assignment 5: [**Assignment 5**](https://github.com/DujePerisin/hci-assignment-3/tree/03-assignment-website-w/-template-pages) [**Vercel website link**](https://kud-ante-zaninovic.vercel.app/)<!-- Replace with actual URL -->
 - Link to Assignment 5: [**Assignment 6**](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assignments/assignment-6) [**Vercel website link**](https://kud-ante-zaninovic.vercel.app/)<!-- Replace with actual URL -->
 
-- Note about Assignment 3 & 5 & 6: Entire project is contained inside a different Github repo of mine. Deployed [**website**](https://kud-ante-zaninovic.vercel.app/) with the Vercel domain is also available. 
+- Note about Assignment 3 & 5 & 6: Entire project is contained inside a different [**Github repo**](https://github.com/DujePerisin/kud-ante-zaninovic) of mine. Deployed [**website**](https://kud-ante-zaninovic.vercel.app/) with the Vercel domain is also available. 
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
