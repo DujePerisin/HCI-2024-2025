@@ -19,31 +19,32 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://kud-ante-zaninovic.vercel.app/) <!-- Replace with actual URL -->
+- Link to your final report: [**Final Report**](https://github.com/DujePerisin/HCI-2024-2025/blob/main/docs/FinalReport.md) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
 
 - Link to Assignment 1: [**Assignment 1**](https://github.com/DujePerisin/HCI-2024-2025/tree/3a83f74c5a50aa544886e79ad3f0ebc444a6886c/assignments/assignment-1) <!-- Replace with actual URL --> 
 - Link to Assignment 2: [**Assignment 2**](https://github.com/DujePerisin/HCI-2024-2025/tree/3a83f74c5a50aa544886e79ad3f0ebc444a6886c/assignments/assignment-2) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](https://github.com/DujePerisin/hci-assignment-3) [**Vercel website link**](https://hci-assignment-3.vercel.app/)<!-- Replace with actual URL -->
+- Link to Assignment 3: [**Assignment 3**](https://github.com/DujePerisin/hci-assignment-3) [**Vercel website link**](https://kud-ante-zaninovic.vercel.app/)<!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assignments/assignment-4)
-- Link to Assignment 5: [**Assignment 5**](https://github.com/DujePerisin/hci-assignment-3/tree/03-assignment-website-w/-template-pages) [**Vercel website link**](https://hci-assignment-3.vercel.app/)<!-- Replace with actual URL -->
-- Link to Assignment 5: [**Assignment 6**](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assignments/assignment-6) [**Vercel website link**](https://hci-assignment-3.vercel.app/)<!-- Replace with actual URL -->
-- Note about Assignment 3 & 5 & 6: Entire project is contained inside a different Github repo of mine !!NOT IN THIS ONE!! I didn't want to take chances with Vercel and so I have provided a link to that repo. Deployed [**website**](https://hci-assignment-3.vercel.app/) with the Vercel domain is also available. 
+- Link to Assignment 5: [**Assignment 5**](https://github.com/DujePerisin/hci-assignment-3/tree/03-assignment-website-w/-template-pages) [**Vercel website link**](https://kud-ante-zaninovic.vercel.app/)<!-- Replace with actual URL -->
+- Link to Assignment 5: [**Assignment 6**](https://github.com/DujePerisin/HCI-2024-2025/tree/main/assignments/assignment-6) [**Vercel website link**](https://kud-ante-zaninovic.vercel.app/)<!-- Replace with actual URL -->
+
+- Note about Assignment 3 & 5 & 6: Entire project is contained inside a different Github repo of mine. Deployed [**website**](https://kud-ante-zaninovic.vercel.app/) with the Vercel domain is also available. 
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
 
 ### Web Application Requirements
 
-- [ ] The application will be used from a web browser
-- [ ] It will be accessible on devices of different sizes
-- [ ] Users can search/filter products or services
-- [ ] The application will support user login for showing private content
-- [ ] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
-- [ ] Part of the application's content will be stored in a remote headless CMS system
+- [x] The application will be used from a web browser
+- [x] It will be accessible on devices of different sizes
+- [x] Users can search/filter products or services
+- [x] The application will support user login for showing private content
+- [x] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
+- [x] Part of the application's content will be stored in a remote headless CMS system
 
 ### Project Demonstration
 
